@@ -245,6 +245,18 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
+      "Id": "/home/paritosh/Source/Repos/personal/wwwroot/sourceDB/sourceSQlLiteDB.db",
+      "PackagePath": "staticwebassets/sourceDB/sourceSQlLiteDB.db"
+    },
+    {
+      "Id": "/home/paritosh/Source/Repos/personal/wwwroot/sourceDB/sourceSQlLiteDB.db-shm",
+      "PackagePath": "staticwebassets/sourceDB/sourceSQlLiteDB.db-shm"
+    },
+    {
+      "Id": "/home/paritosh/Source/Repos/personal/wwwroot/sourceDB/sourceSQlLiteDB.db-wal",
+      "PackagePath": "staticwebassets/sourceDB/sourceSQlLiteDB.db-wal"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.personal.props",
       "PackagePath": "build\\personal.props"
     },
